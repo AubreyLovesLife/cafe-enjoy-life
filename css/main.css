@@ -78,7 +78,7 @@ body {
 
 
 .jumbotron {
-  background-image: url("img/coffee-blue-crop1.jpg"); /* The image used */
+  background-image: url("../img/coffee-blue-crop1.jpg"); /* The image used */
   background-color: #5AA6B2; /* Used if the image is unavailable */
   height: auto; /* You must set a specified height */
   background-position: center; /* Center the image */
@@ -231,7 +231,7 @@ div#values {
 /****************** footer ********************/
 
 footer { 
-  background-image: url("img/coffee-blue-crop1.jpg"); /* The image used */
+  background-image: url("../img/coffee-blue-crop1.jpg"); /* The image used */
   background-color: #5AA6B2; /* Used if the image is unavailable */
   height: auto; /* You must set a specified height */
   background-position: center; /* Center the image */
